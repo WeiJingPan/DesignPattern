@@ -1,0 +1,1 @@
+E:\MakeProjectSpace\DesignPattern\CommendPattern\bin\Debug\CommendPattern.exe.config

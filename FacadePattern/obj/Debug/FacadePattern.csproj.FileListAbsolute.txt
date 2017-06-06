@@ -1,0 +1,6 @@
+E:\MakeProjectSpace\DesignPattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+E:\MakeProjectSpace\DesignPattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+E:\MakeProjectSpace\DesignPattern\FacadePattern\bin\Debug\FacadePattern.exe
+E:\MakeProjectSpace\DesignPattern\FacadePattern\bin\Debug\FacadePattern.pdb
+E:\MakeProjectSpace\DesignPattern\FacadePattern\obj\Debug\FacadePattern.exe
+E:\MakeProjectSpace\DesignPattern\FacadePattern\obj\Debug\FacadePattern.pdb

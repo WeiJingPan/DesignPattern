@@ -1,0 +1,6 @@
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

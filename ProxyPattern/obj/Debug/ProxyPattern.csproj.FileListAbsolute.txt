@@ -1,0 +1,6 @@
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\MakeProjectSpace\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
