@@ -4,3 +4,9 @@ E:\MakeProjectSpace\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
 E:\MakeProjectSpace\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
 E:\MakeProjectSpace\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
 E:\MakeProjectSpace\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+E:\VS-Workplace\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+E:\VS-Workplace\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+E:\VS-Workplace\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+E:\VS-Workplace\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+E:\VS-Workplace\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+E:\VS-Workplace\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

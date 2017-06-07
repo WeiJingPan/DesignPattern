@@ -4,3 +4,6 @@ E:\MakeProjectSpace\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pd
 E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
 E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
 E:\MakeProjectSpace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+E:\VS-Workplace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\VS-Workplace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\VS-Workplace\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

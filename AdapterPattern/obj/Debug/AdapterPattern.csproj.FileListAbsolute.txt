@@ -4,3 +4,9 @@ E:\MakeProjectSpace\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
 E:\MakeProjectSpace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
 E:\MakeProjectSpace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
 E:\MakeProjectSpace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+E:\VS-Workplace\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\VS-Workplace\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\VS-Workplace\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\VS-Workplace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+E:\VS-Workplace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\VS-Workplace\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
