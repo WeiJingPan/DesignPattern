@@ -1,0 +1,6 @@
+E:\VS-Workplace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.exe.config
+E:\VS-Workplace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.exe
+E:\VS-Workplace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.pdb
+E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.csprojResolveAssemblyReference.cache
+E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.exe
+E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.pdb
