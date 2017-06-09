@@ -1,0 +1,6 @@
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+E:\MakeProjectSpace\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

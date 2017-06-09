@@ -4,3 +4,16 @@ E:\VS-Workplace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.pdb
 E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.csprojResolveAssemblyReference.cache
 E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.exe
 E:\VS-Workplace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.pdb
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.exe.config
+E:\MakeProjectSpace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.exe
+E:\MakeProjectSpace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.pdb
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.exe
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\CombinePattern.pdb
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\mscorlib.dll
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\zh-Hans\mscorlib.resources.dll
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\normidna.nlp
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\normnfc.nlp
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\normnfd.nlp
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\normnfkc.nlp
+E:\MakeProjectSpace\DesignPattern\CombinePattern\bin\Debug\normnfkd.nlp
+E:\MakeProjectSpace\DesignPattern\CombinePattern\obj\Debug\CombinePattern.csprojResolveAssemblyReference.cache
