@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinePattern", "CombinePa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{CC2BE2A4-820A-4C4C-978D-B5EDE614FB4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{7C942F6D-90F5-4E8A-A7AE-635A76B2039F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CC2BE2A4-820A-4C4C-978D-B5EDE614FB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2BE2A4-820A-4C4C-978D-B5EDE614FB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2BE2A4-820A-4C4C-978D-B5EDE614FB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C942F6D-90F5-4E8A-A7AE-635A76B2039F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C942F6D-90F5-4E8A-A7AE-635A76B2039F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C942F6D-90F5-4E8A-A7AE-635A76B2039F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C942F6D-90F5-4E8A-A7AE-635A76B2039F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
