@@ -11,11 +11,10 @@ namespace ChainOfResponsibilityPattern
         static void Main(string[] args)
         {
             List<Woman> womanList = new List<Woman>();
+            Random random=new Random();
             for (int i = 0; i < 4; i++)
             {
-                Random random=new Random(0);
-                int type = random.Next(2);
-                Console.WriteLine("type is" + type);
+                int type = random.Next(0,3);
                 string request="逛街的请求";
 
                 Woman woman = new Woman(type, request);
@@ -31,7 +30,7 @@ namespace ChainOfResponsibilityPattern
 
             foreach (Woman women in womanList)
             {
-                father.Response(women);
+                father.HandleMessage(women);
             }
             Console.ReadKey();
         }
@@ -54,10 +53,10 @@ namespace ChainOfResponsibilityPattern
     }
     class Father : Handler
     {
-        public Father() : base(0){ }
+        public Father() :base(0){ }
         public override void Response(Woman woman)
         {
-            Console.WriteLine("作为父亲我已经同意" + woman.Request());
+            Console.WriteLine("作为父亲我已经同意"+ woman.Request());
         }
     }
     abstract class Handler
@@ -68,17 +67,17 @@ namespace ChainOfResponsibilityPattern
         {
             this.level = level;
         }
-        void HandleMessage(Woman woman)
+        public void HandleMessage(Woman woman)
         {
             if (woman.type == this.level)
             {
-                Response(woman);
+                this.Response(woman);
             }
             else
             {
                 if (nextHandler != null)
                 {
-                    nextHandler.Response(woman);
+                    nextHandler.HandleMessage(woman);
                 }
             }
         }

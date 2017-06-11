@@ -4,3 +4,9 @@ E:\MakeProjectSpace\DesignPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOf
 E:\MakeProjectSpace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.csprojResolveAssemblyReference.cache
 E:\MakeProjectSpace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.exe
 E:\MakeProjectSpace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.pdb
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe.config
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.exe
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.pdb
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+E:\VS-Workplace\DesignPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.csprojResolveAssemblyReference.cache
