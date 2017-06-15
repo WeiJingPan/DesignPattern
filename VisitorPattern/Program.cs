@@ -10,17 +10,49 @@ namespace VisitorPattern
     {
         static void Main(string[] args)
         {
+            foreach (Employee item in mockEmployee())
+            {
+                item.Accept(new Visitor());
+            }
+            Console.ReadKey();
+        }
+
+        public static List<Employee> mockEmployee()
+        {
+            List<Employee> empList = new List<Employee>();
+//产生张三这个员工
+            CommonEmployee zhangSan = new CommonEmployee();
+            zhangSan.Joy="编写Java程序，绝对的蓝领、苦工加搬运工";
+            zhangSan.Name="张三";
+            zhangSan.Salary=1800;
+            zhangSan.Sex=Employee.MALE;
+            empList.Add(zhangSan);
+//产生李四这个员工
+            CommonEmployee liSi = new CommonEmployee();
+            liSi.Joy="页面美工，审美素质太不流行了！";
+            liSi.Name="李四";
+            liSi.Salary=1900;
+            liSi.Sex=Employee.FEMALE;
+            empList.Add(liSi);
+//再产生一个经理
+            Manager wangWu = new Manager();
+            wangWu.Name = "王五";
+            wangWu.Performance=("基本上是负值，但是我会拍马屁呀");
+            wangWu.Salary=18750;
+            wangWu.Sex=Employee.MALE;
+            empList.Add(wangWu);
+            return empList;
         }
     }
-    class Visitor
+    public class Visitor
     {
         public void Visit(CommonEmployee commonEmployee)
         {
-            GetCommonEmployee(commonEmployee);
+            Console.WriteLine(GetCommonEmployee(commonEmployee)); 
         }
         public void Visit(Manager manager)
         {
-            GetManager(manager);
+            Console.WriteLine(GetManager(manager));
         }
         private string GetBaiscInfo(Employee employee)
         {
@@ -41,23 +73,23 @@ namespace VisitorPattern
             return basicInfo + otherInfo;
         }
     }
-    class Manager : Employee
+    public class Manager : Employee
     {
         public string Performance { get; set; }
-        public void Accept(Visitor visitor)
+        public override void Accept(Visitor visitor)
         {
             visitor.Visit(this);
         }
     }
-    class CommonEmployee:Employee
+    public class CommonEmployee:Employee
     {
         public string Joy { get; set; }
-        public void Accept(Visitor visitor)
+        public override void Accept(Visitor visitor)
         {
             visitor.Visit(this);
         }
     }
-    abstract class Employee
+    public abstract class Employee
     {
         public const int MALE = 0;//0代表男性
         public const int FEMALE = 1;//1代表女性
@@ -66,5 +98,6 @@ namespace VisitorPattern
         public int Salary { get; set; }
         public int Sex { get; set; }
 
+        public abstract void Accept(Visitor visitor);
     }    
 }
