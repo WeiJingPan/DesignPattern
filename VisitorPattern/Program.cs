@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,10 +11,14 @@ namespace VisitorPattern
     {
         static void Main(string[] args)
         {
+            Visitor showVisitor=new Visitor();
+            TotalSalaryVisitor totalSalary=new TotalSalaryVisitor();
             foreach (Employee item in mockEmployee())
             {
-                item.Accept(new Visitor());
+                item.Accept(showVisitor);
+                item.Accept(totalSalary);
             }
+            totalSalary.TotalSalary();
             Console.ReadKey();
         }
 
@@ -44,7 +49,31 @@ namespace VisitorPattern
             return empList;
         }
     }
-    public class Visitor
+
+    public class TotalSalaryVisitor:IVisitor
+    {
+        private const int MANAGER_COEFFICIENT = 5;
+        private const int COMMONEMPLOYEE_COEFFICIENT = 2;
+
+        private int commonTotalSalary = 0;
+        private int managerTotalSalary = 0;
+
+        public void Visit(CommonEmployee commonEmployee)
+        {
+            commonTotalSalary = commonTotalSalary + commonEmployee.Salary * COMMONEMPLOYEE_COEFFICIENT;
+        }
+
+        public void Visit(Manager manager)
+        {
+            managerTotalSalary = managerTotalSalary + manager.Salary * MANAGER_COEFFICIENT;
+        }
+
+        public void TotalSalary()
+        {
+            Console.WriteLine("公司支付的工资总额："+(commonTotalSalary+managerTotalSalary));
+        }
+    }
+    public class Visitor : IVisitor
     {
         public void Visit(CommonEmployee commonEmployee)
         {
@@ -73,10 +102,16 @@ namespace VisitorPattern
             return basicInfo + otherInfo;
         }
     }
+
+    public interface IVisitor
+    {
+        void Visit(CommonEmployee commonEmployee);
+        void Visit(Manager manager);
+    }
     public class Manager : Employee
     {
         public string Performance { get; set; }
-        public override void Accept(Visitor visitor)
+        public override void Accept(IVisitor visitor)
         {
             visitor.Visit(this);
         }
@@ -84,7 +119,7 @@ namespace VisitorPattern
     public class CommonEmployee:Employee
     {
         public string Joy { get; set; }
-        public override void Accept(Visitor visitor)
+        public override void Accept(IVisitor visitor)
         {
             visitor.Visit(this);
         }
@@ -98,6 +133,6 @@ namespace VisitorPattern
         public int Salary { get; set; }
         public int Sex { get; set; }
 
-        public abstract void Accept(Visitor visitor);
-    }    
+        public abstract void Accept(IVisitor visitor);
+    }
 }
