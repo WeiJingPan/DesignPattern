@@ -1,0 +1,1 @@
+E:\VS-Workplace\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
