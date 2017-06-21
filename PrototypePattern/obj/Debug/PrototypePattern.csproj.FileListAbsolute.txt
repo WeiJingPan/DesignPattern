@@ -1,1 +1,14 @@
 E:\VS-Workplace\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\mscorlib.dll
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\zh-Hans\mscorlib.resources.dll
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normidna.nlp
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normnfc.nlp
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normnfd.nlp
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normnfkc.nlp
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normnfkd.nlp
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
