@@ -12,3 +12,5 @@ E:\MakeProjectSpace\DesignPattern\PrototypePattern\bin\Debug\normnfkd.nlp
 E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
 E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
 E:\MakeProjectSpace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
+E:\VS-Workplace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+E:\VS-Workplace\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb

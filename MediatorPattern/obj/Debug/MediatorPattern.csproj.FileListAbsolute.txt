@@ -1,0 +1,1 @@
+E:\VS-Workplace\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
