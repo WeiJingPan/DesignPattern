@@ -1,0 +1,6 @@
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\bin\Debug\1-StrategyPattern.exe.config
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\bin\Debug\1-StrategyPattern.exe
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\bin\Debug\1-StrategyPattern.pdb
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\obj\Debug\1-StrategyPattern.csprojResolveAssemblyReference.cache
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\obj\Debug\1-StrategyPattern.exe
+E:\VS-Workplace\DesignPattern\1-StrategyPattern\obj\Debug\1-StrategyPattern.pdb
