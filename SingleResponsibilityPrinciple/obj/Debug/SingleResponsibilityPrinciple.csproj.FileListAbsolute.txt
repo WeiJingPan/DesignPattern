@@ -1,0 +1,5 @@
+E:\VS-Workplace\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+E:\VS-Workplace\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+E:\VS-Workplace\DesignPattern\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+E:\VS-Workplace\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+E:\VS-Workplace\DesignPattern\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
